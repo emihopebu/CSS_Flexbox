@@ -1,1 +1,1 @@
-URL: https://emihopebu.github.io/CSS_Flexbox/flex-container-basics/flex-direction.html
+URL: https://emihopebu.github.io/CSS_Flexbox/flex-direction/flex-direction.html
