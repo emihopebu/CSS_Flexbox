@@ -1,3 +1,7 @@
+.container {
+  flex-direction: column;
+}
+
 .flex-start-container {
   justify-content: flex-start;
 }
