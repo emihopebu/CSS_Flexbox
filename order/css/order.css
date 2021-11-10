@@ -1,0 +1,9 @@
+.default-order .item {
+  order: 0;
+}
+.last-to-first .item:last-of-type {
+  order: -1;
+}
+.first-to-last .item:first-of-type {
+  order: 1;
+}
